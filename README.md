@@ -1,4 +1,6 @@
-# Jeremy Altman
+## Jeremy Altman
+Austin, Texas
+https://www.linkedin.com/in/altmanjeremy
 
 Multi-certified infrastructure architect/systems administrator with strong experience managing server infrastructures and data-center operations across Windows, macOS, Linux, and Unix platforms. Effectively plan, install, configure and optimize IT systems to achieve high availability and performance.
 
@@ -17,11 +19,11 @@ Proven ability to create and deliver solutions tied to business growth, organiza
 
 # Education
 
-## Computer science/Information systems | 2000 | University of south florida
+## Computer Science/Information Systems | 2000 | University of South Florida
 
 # Skills &amp; Abilities
 
-## Powershell scripting &amp; Automation
+## Powershell Scripting &amp; Automation
 
 - Leveraged the powerful scripting abilities of PowerShell to automate and manage local and remote Windows systems, Office 365, Active Directory, VMware vSphere, enterprise software deployments, security auditing, system reports, and much more.
 
@@ -34,7 +36,7 @@ Proven ability to create and deliver solutions tied to business growth, organiza
 - Utilized monitoring &amp; management systems: OpenNMS, Nagios, SOTI MobiControl Cloud, Microsoft System Center, LogMeIn Central &amp; Rescue, Sophos Central, and Symantec EndPoint.
 - Deployment of Single Sign-On (SSO) utilizing SAML/ADFS and Centrify Identity &amp; Access Management (IAM).
 
-## virtualization &amp; Cloud
+## Virtualization &amp; Cloud
 
 - Experience designing, deploying, managing and monitoring on-premise virtualization with VMware technologies (vSphere/ESXi 5.5, 6.0, 6.5, 6.7, vMotion, vSAN, vSwitches, etc) predominately on Dell servers and storage.
 - Cloud-based experience supporting infrastructure in both Amazon Web Services/AWS (EC2 &amp; S3) and Azure.
