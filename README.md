@@ -1,6 +1,6 @@
 # Jeremy Altman
- https://www.linkedin.com/in/altmanjeremy 
- Austin, Texas 
+* https://www.linkedin.com/in/altmanjeremy 
+* Austin, Texas 
 
 Multi-certified infrastructure architect/systems administrator with strong experience managing server infrastructures and data-center operations across Windows, macOS, Linux, and Unix platforms, both on-premise and in the clouds (Azure & AWS). Effectively plan, install, configure and optimize IT systems to achieve high availability and performance.
 
