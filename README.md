@@ -2,7 +2,7 @@
 Austin, Texas
 https://www.linkedin.com/in/altmanjeremy
 
-Multi-certified infrastructure architect/systems administrator with strong experience managing server infrastructures and data-center operations across Windows, macOS, Linux, and Unix platforms, both on-prem and in the clouds (Azure & AWS). Effectively plan, install, configure and optimize IT systems to achieve high availability and performance.
+Multi-certified infrastructure architect/systems administrator with strong experience managing server infrastructures and data-center operations across Windows, macOS, Linux, and Unix platforms, both on-premise and in the clouds (Azure & AWS). Effectively plan, install, configure and optimize IT systems to achieve high availability and performance.
 
 Proven ability to create and deliver solutions tied to business growth, organizational development and systems/network optimization. Skilled problem identifier and troubleshooter comfortable managing systems, projects and teams in a range of IT environments.
 
