@@ -1,4 +1,4 @@
-## Jeremy Altman
+# Jeremy Altman
 Austin, Texas
 https://www.linkedin.com/in/altmanjeremy
 
@@ -45,7 +45,7 @@ Proven ability to create and deliver solutions tied to business growth, organiza
 
 # Experience
 
-## Infrastructure architect | Santanna Energy Services | 8.2018 - Present
+## Infrastructure Architect | Santanna Energy Services | 8.2018 - Present
 
 - Migrated network from a single flat class-C subnet to a multi-VLAN class-A topology while migrating from Dell PowerConnect to Cisco Catalyst switches. Created Peplink SpeedFusion (SD-WAN) VPN tunnels to connect to various virtual networks within different Azure regions. Converted corporate wireless from WPA-PSK to WPA-Enterprise and replaced TP-Link with Aerohive WAPs.
 - Created a new Active Directory Forest (functional level 2016) and migrated active user and computer objects from multiple legacy domains, utilizing organizational units and security groups
@@ -62,7 +62,7 @@ Proven ability to create and deliver solutions tied to business growth, organiza
 - Created an Active Directory user self-service portal with Adaxes along with the necessary automation, documentation, and training to allow the IT department to utilize Adaxes as a primary means of Active Directory administration.
 - Initiated migration of legacy Shoretel-based phone system to cloud-based VOIP solution provided by 8x8 for the corporate and sales offices along with the 50-seat call center.
 
-## System administrator | BPL Plasma | 3.2016 – 8.2018
+## System Administrator | BPL Plasma | 3.2016 – 8.2018
 
 - Manage information systems for 43 locations through organized and coordinated office procedures, operations, and resources. Research, design, implement, and troubleshoot information systems and technology solutions in support of business needs. Execute policy and procedural changes to develop and improve operational efficiency. Monitor for compliance of IT &amp; network policies. Plan and implement all IT-related projects, installations and modification. Oversee the continuous project development, system maintenance and improving the efficiency of Domain connected hardware and software.
 - Performed scheduled maintenance, security updates, and routine monitoring of all servers across the enterprise
@@ -82,7 +82,7 @@ Proven ability to create and deliver solutions tied to business growth, organiza
 - Implemented Single Sign-On (SSO) Active Directory Identity Management with Centrify for various SAML-based cloud services including Samanage, Slack, Dropbox Enterprise, DocuSign, WebEx, ProLease, and OfficeSpace
 - Additional notable systems deployed: LogMeIn Cloud, Sophos Central, SOTI MobiControl, OpenNMS
 
-## Senior systems engineer | Crossroads technology group | 4.2014 - 1.2016
+## Senior Systems Engineer | Crossroads technology group | 4.2014 - 1.2016
 
 - Created and managed the technical side of Crossroads&#39; Managed Services division
 - Designed, deployed, managed and maintained company network and data center
@@ -99,14 +99,14 @@ Proven ability to create and deliver solutions tied to business growth, organiza
 - Assisted clients with various break/fix issues and maintained monthly ongoing support contracts
 - Developed custom tailored disaster recovery and backup solutions
 
-## Senior systems engineer | Commodore USA | 4.2010 - 3.2012
+## Senior Systems Engineer | Commodore USA | 4.2010 - 3.2012
 
 - Assisted in the design and development of the Commodore C64x
 - Created the Linux system images that were pre-installed on all C64x and VIC Slim machines
 - Managed and was responsible for backend network servers including production website and forums
 - Assisted in production, assembly, quality control and shipping
 
-## Information Technology Manager | Allied kitchen &amp; Bath | 7.2008 - 3.2010
+## Information Technology Manager | Allied Kitchen &amp; Bath | 7.2008 - 3.2010
 
 - Managed entire network and migrated email from local ISP to Windows 2003 Small Business Server/Exchange
 - Planned and managed all company IT projects and team coordination/execution
@@ -114,7 +114,7 @@ Proven ability to create and deliver solutions tied to business growth, organiza
 - Deployed NEC Elite IPK digital phone and voicemail system with dual T1 connections
 - Provided desktop support for entire company
 
-## Network administrator | Interactive intelligence | 10.2000 - 4.2005
+## Network Administrator | Interactive Intelligence | 10.2000 - 4.2005
 
 - Managed complex wiring installation with over 600 CAT6 voice/data drops
 - Maintained all equipment in server room/network operations &amp; development lab
