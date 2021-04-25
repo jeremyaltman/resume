@@ -92,6 +92,8 @@ content:
             Created an Active Directory user self-service portal with Adaxes along with the necessary automation, documentation, and training to allow the IT department to utilize Adaxes as a primary means of Active Directory administration.
 
             Initiated migration of legacy Shoretel-based phone system to cloud-based VOIP solution provided by 8x8 for the corporate and sales offices along with the 50-seat call center.
+      
+      - layout: left
         title: BPL Plasma
         link: bplplasma.com
         # link_text: bplplasma.com
@@ -131,6 +133,9 @@ content:
             Implemented Single Sign-On (SSO) Active Directory Identity Management with Centrify for various SAML-based cloud services including Samanage, Slack, Dropbox Enterprise, DocuSign, WebEx, ProLease, and OfficeSpace
             
             Additional notable systems deployed: LogMeIn Cloud, Sophos Central, SOTI MobiControl, OpenNMS
+
+    content:
+      - layout: left
         title: Crossroads Technology Group
         link: crosstg.com
         # link_text: crosstg.com
@@ -152,6 +157,9 @@ content:
             Led team of technicians providing technical support to clients/end-users
             
             Upgraded office phone system from Toshiba Strata CIX40 to Asterisk/FreePBX VOIP
+    
+    content:
+      - layout: left
         title: Syntek Systems
         link: synteksystems.net
         # link_text: synteksystems.net
@@ -163,6 +171,9 @@ content:
             Assisted clients with various break/fix issues and maintained monthly ongoing support contracts
             
             Developed custom tailored disaster recovery and backup solutions
+
+    content:
+      - layout: left        
         title: Commodore USA
         link: commodoreusa.net
         # link_text: commodoreusa.net
@@ -176,6 +187,9 @@ content:
             Managed and was responsible for backend network servers including production website and forums
             
             Assisted in production, assembly, quality control and shipping
+
+    content:
+      - layout: left
         title: Allied Kitchen &amp; Bath
         link: alliedkb.com
         # link_text: allliedkb.com
@@ -191,6 +205,9 @@ content:
             Deployed NEC Elite IPK digital phone and voicemail system with dual T1 connections
             
             Provided desktop support for entire company
+
+    content:
+      - layout: left        
         title: Interactive Intelligence
         link: inin.com
         # link_text: inin.com
