@@ -93,7 +93,7 @@ content:
 
             Initiated migration of legacy Shoretel-based phone system to cloud-based VOIP solution provided by 8x8 for the corporate and sales offices along with the 50-seat call center.
       
-      - layout: left
+      - layout: right
         title: BPL Plasma
         link: bplplasma.com
         # link_text: bplplasma.com
@@ -134,7 +134,6 @@ content:
             
             Additional notable systems deployed: LogMeIn Cloud, Sophos Central, SOTI MobiControl, OpenNMS
 
-    content:
       - layout: left
         title: Crossroads Technology Group
         link: crosstg.com
@@ -158,8 +157,7 @@ content:
             
             Upgraded office phone system from Toshiba Strata CIX40 to Asterisk/FreePBX VOIP
     
-    content:
-      - layout: left
+      - layout: right
         title: Syntek Systems
         link: synteksystems.net
         # link_text: synteksystems.net
@@ -172,7 +170,6 @@ content:
             
             Developed custom tailored disaster recovery and backup solutions
 
-    content:
       - layout: left        
         title: Commodore USA
         link: commodoreusa.net
@@ -188,8 +185,7 @@ content:
             
             Assisted in production, assembly, quality control and shipping
 
-    content:
-      - layout: left
+      - layout: right
         title: Allied Kitchen &amp; Bath
         link: alliedkb.com
         # link_text: allliedkb.com
@@ -206,7 +202,6 @@ content:
             
             Provided desktop support for entire company
 
-    content:
       - layout: left        
         title: Interactive Intelligence
         link: inin.com
