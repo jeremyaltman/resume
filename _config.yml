@@ -133,7 +133,7 @@ content:
             
             Upgraded office phone system from Toshiba Strata CIX40 to Asterisk/FreePBX VOIP
     
-      - layout: right
+      - layout: left
         title: Syntek Systems
         link: synteksystems.net
         # link_text: synteksystems.net
@@ -161,7 +161,7 @@ content:
             
             Assisted in production, assembly, quality control and shipping
 
-      - layout: right
+      - layout: left
         title: Allied Kitchen &amp; Bath
         link: alliedkb.com
         # link_text: allliedkb.com
