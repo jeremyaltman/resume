@@ -22,7 +22,7 @@ linkedin_username: altmanjeremy
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile-pic01.png
 about_content: | # this will include new lines to allow paragraphs
   Multi-certified infrastructure architect/systems administrator with strong experience managing server infrastructures and data-center operations across Windows, macOS, Linux, and Unix platforms, both on-premise and in the clouds (Azure & AWS). Effectively plan, install, configure and optimize IT systems to achieve high availability and performance.
 
