@@ -69,7 +69,6 @@ content:
 
             Initiated migration of legacy Shoretel-based phone system to cloud-based VOIP solution provided by 8x8 for the corporate and sales offices along with the 50-seat call center.
       
-      - layout: right
         title: BPL Plasma
         link: bplplasma.com
         # link_text: bplplasma.com
