@@ -53,25 +53,6 @@ about_content: | # this will include new lines to allow paragraphs
   Proven ability to create and deliver solutions tied to business growth, organizational development and systems/network optimization. Skilled problem identifier and troubleshooter comfortable managing systems, projects and teams in a range of IT environments.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -139,8 +120,6 @@ content:
             Implemented Single Sign-On (SSO) Active Directory Identity Management with Centrify for various SAML-based cloud services including Samanage, Slack, Dropbox Enterprise, DocuSign, WebEx, ProLease, and OfficeSpace
             Additional notable systems deployed: LogMeIn Cloud, Sophos Central, SOTI MobiControl, OpenNMS
 
-    content:
-      - layout: left
         title: Crossroads Technology Group
         link: crosstg.com
         # link_text: crosstg.com
@@ -157,8 +136,6 @@ content:
             Led team of technicians providing technical support to clients/end-users
             Upgraded office phone system from Toshiba Strata CIX40 to Asterisk/FreePBX VOIP
 
-    content:
-      - layout: left
         title: Syntek Systems
         link: synteksystems.net
         # link_text: synteksystems.net
@@ -171,8 +148,6 @@ content:
             
             Developed custom tailored disaster recovery and backup solutions
 
-    content:
-      - layout: left
         title: Commodore USA
         link: commodoreusa.net
         # link_text: commodoreusa.net
@@ -187,8 +162,6 @@ content:
             
             Assisted in production, assembly, quality control and shipping
 
-    content:
-      - layout: left
         title: Allied Kitchen &amp; Bath
         link: alliedkb.com
         # link_text: allliedkb.com
@@ -205,8 +178,6 @@ content:
             
             Provided desktop support for entire company
 
-    content:
-      - layout: left
         title: Interactive Intelligence
         link: inin.com
         # link_text: inin.com
