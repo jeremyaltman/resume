@@ -201,14 +201,17 @@ content:
         caption: 1997 - 2000
         sub_title: Computer Science/Information Systems
 
-  - title: A Little More About Me
+  - title: Certifications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networking and system engineering some of my other interests and hobbies are:
-      - Legos
-      - Puzzles
-      - Gaming
-      - Hiking &amp; Exploring
+      - VMware Certified Associate 6 – Data Center Virtualization VCA6-DCV
+      - Peplink Certified Engineer PCE
+      - Microsoft Certified Systems Engineer MCSE
+      - Microsoft Certified Professional MCP
+      - Apple Certified Support Professional ACSP
+      - Apple Certified Desktop Technician AASP
+      - Apple Product Professional APP
+      - Interactive Intelligence Certified Engineer ICCE
 
 # Footer
 footer_show_references: true
