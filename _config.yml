@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Jeremy Altman
 title: Enterprise Systems Architect
-email: jeremyaltman@outlook.com
+email: jeremy@altmn.co
 website: jeremy.altmn.co
 
 # Dark Mode (true/false/never)
@@ -163,7 +163,7 @@ content:
 
       - layout: left
         title: Allied Kitchen &amp; Bath
-        link: alliedkb.com
+        link: www.alliedkitchenandbath.com
         # link_text: allliedkb.com
         sub_title: Information Technology Manager
         caption: July 2008 - March 2010
