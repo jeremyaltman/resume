@@ -8,8 +8,8 @@ version: 2
 # Personal info
 name: Jeremy Altman
 title: Enterprise Systems Architect
-email: jeremy@altmn.co
-website: jeremy.altmn.co
+email: jeremy@altman.dev
+website: jeremy.altman.dev
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -112,8 +112,8 @@ content:
 
       - layout: left
         title: Crossroads Technology Group
-        link: crosstg.com
-        # link_text: crosstg.com
+        link: crossroadstechnologygroup.com
+        # link_text: crossroadstechnologygroup.com
         sub_title: Senior Systems Engineer
         caption: April 2014 - January 2016
         quote: >
